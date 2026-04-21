@@ -1,0 +1,10 @@
+/* NO GLOBAL STYLES HERE. ALL STYLES IN App.css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #0d0d0d;
+}
